@@ -1,0 +1,3 @@
+User-agent: *
+echo "##active_line2##"
+Disallow: 
