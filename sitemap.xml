@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.bestdiet.ai/index.html</loc>
+    <loc>https://www.bestdiet.ai/index.html</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/ai-model.html</loc>
+    <loc>https://www.bestdiet.ai/ai-model.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/meal-planning.html</loc>
+    <loc>https://www.bestdiet.ai/meal-planning.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/logging-meals.html</loc>
+    <loc>https://www.bestdiet.ai/logging-meals.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/calorie-counter.html</loc>
+    <loc>https://www.bestdiet.ai/calorie-counter.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/journal.html</loc>
+    <loc>https://www.bestdiet.ai/journal.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/custom-advice.html</loc>
+    <loc>https://www.bestdiet.ai/custom-advice.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.bestdiet.ai/ux-optimization.html</loc>
+    <loc>https://www.bestdiet.ai/ux-optimization.html</loc>
     <priority>0.80</priority>
   </url>
 </urlset>
