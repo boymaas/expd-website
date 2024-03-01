@@ -1,99 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://www.bestdiet.ai/</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/ai-model</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/meal-planning</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/logging-meals</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/calorie-counter</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/journal</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/custom-advice</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/ux-optimization</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
+  <url>
+    <loc>http://www.bestdiet.ai/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/ai-model.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/meal-planning.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/logging-meals.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/calorie-counter.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/journal.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/custom-advice.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.bestdiet.ai/ux-optimization.html</loc>
+    <priority>0.80</priority>
+  </url>
 </urlset>
-<url>
-<loc>http://www.bestdiet.ai/ai-model.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/calorie-counter.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/custom-advice.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/index.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/journal.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/logging-meals.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/meal-planning.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>http://www.bestdiet.ai/ux-optimization.html</loc>
-<lastmod>2023-03-15</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.8</priority>
-</url>
