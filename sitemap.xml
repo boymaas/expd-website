@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+echo "##active_line2##"
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+echo "##active_line3##"
+<url>
+echo "##active_line4##"
+<loc>http://www.bestdiet.ai/</loc>
+echo "##active_line5##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line6##"
+<changefreq>monthly</changefreq>
+echo "##active_line7##"
+<priority>1.0</priority>
+echo "##active_line8##"
+</url>
+echo "##active_line9##"
+<url>
+echo "##active_line10##"
+<loc>http://www.bestdiet.ai/ai-model</loc>
+echo "##active_line11##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line12##"
+<changefreq>monthly</changefreq>
+echo "##active_line13##"
+<priority>0.8</priority>
+echo "##active_line14##"
+</url>
+echo "##active_line15##"
+<url>
+echo "##active_line16##"
+<loc>http://www.bestdiet.ai/meal-planning</loc>
+echo "##active_line17##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line18##"
+<changefreq>monthly</changefreq>
+echo "##active_line19##"
+<priority>0.8</priority>
+echo "##active_line20##"
+</url>
+echo "##active_line21##"
+<url>
+echo "##active_line22##"
+<loc>http://www.bestdiet.ai/logging-meals</loc>
+echo "##active_line23##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line24##"
+<changefreq>monthly</changefreq>
+echo "##active_line25##"
+<priority>0.8</priority>
+echo "##active_line26##"
+</url>
+echo "##active_line27##"
+<url>
+echo "##active_line28##"
+<loc>http://www.bestdiet.ai/calorie-counter</loc>
+echo "##active_line29##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line30##"
+<changefreq>monthly</changefreq>
+echo "##active_line31##"
+<priority>0.8</priority>
+echo "##active_line32##"
+</url>
+echo "##active_line33##"
+<url>
+echo "##active_line34##"
+<loc>http://www.bestdiet.ai/journal</loc>
+echo "##active_line35##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line36##"
+<changefreq>monthly</changefreq>
+echo "##active_line37##"
+<priority>0.8</priority>
+echo "##active_line38##"
+</url>
+echo "##active_line39##"
+<url>
+echo "##active_line40##"
+<loc>http://www.bestdiet.ai/custom-advice</loc>
+echo "##active_line41##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line42##"
+<changefreq>monthly</changefreq>
+echo "##active_line43##"
+<priority>0.8</priority>
+echo "##active_line44##"
+</url>
+echo "##active_line45##"
+<url>
+echo "##active_line46##"
+<loc>http://www.bestdiet.ai/ux-optimization</loc>
+echo "##active_line47##"
+<lastmod>2022-12-01</lastmod>
+echo "##active_line48##"
+<changefreq>monthly</changefreq>
+echo "##active_line49##"
+<priority>0.8</priority>
+echo "##active_line50##"
+</url>
+echo "##active_line51##"
+</urlset>
